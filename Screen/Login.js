@@ -42,5 +42,3 @@ const Login = (props) => {
 }
 
 export default Login
-
-const styles = StyleSheet.create({})

@@ -36,5 +36,3 @@ const SignUp = (props) => {
 }
 
 export default SignUp
-
-const styles = StyleSheet.create({})

@@ -1,6 +1,5 @@
 import { FlatList, StyleSheet, Text, TextInput, TouchableOpacity, View, Modal, KeyboardAvoidingView, Platform, Image } from 'react-native';
 import React, { useEffect, useState } from 'react';
-import { StatusBar } from 'expo-status-bar';
 import AntDesign from '@expo/vector-icons/AntDesign';
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import Feather from '@expo/vector-icons/Feather';
